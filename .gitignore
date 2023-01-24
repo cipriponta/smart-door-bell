@@ -1,4 +1,4 @@
-credentials.json
+credentials.h
 debug_custom.json
 debug.cfg
 esp32.svd
